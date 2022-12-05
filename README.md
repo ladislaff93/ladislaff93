@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ladislav - @ladislaff93
 - 👀 I’m interested in sports, learning news skills, music and all the usual staff.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Rust!
+- Working as a back-end python dev
 - 💞️ I’m looking to collaborate on awesome things
 
 
